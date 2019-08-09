@@ -17,12 +17,12 @@ export default {
     }
   },
   mounted () {
-    setTimeout(() => {
-      this.description = 'writting...'
-    }, 300)
-    setInterval(() => {
-      console.log('parent---', this.description)
-    }, 3000)
+    // setTimeout(() => {
+    //   this.description = 'writting...'
+    // }, 1000)
+    // setInterval(() => {
+    //   console.log('parent---', this.description)
+    // }, 3000)
   }
 }
 </script>
