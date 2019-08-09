@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
-      <editor v-model="description" :options="options" placeholder="请随意输入"/>
+      <simditor v-model="description" :options="options" placeholder="请随意输入"/>
     </div>
   </div>
 </template>

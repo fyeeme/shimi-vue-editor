@@ -1,9 +1,9 @@
 import Vue from 'vue'
 import App from './App.vue'
-import Editor from '../packages/index.js'
+import Simditor from '../packages/index.js'
 
 Vue.config.productionTip = false
-Vue.use(Editor)
+Vue.use(Simditor)
 new Vue({
   render: h => h(App)
 }).$mount('#app')
