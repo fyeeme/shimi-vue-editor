@@ -1,6 +1,6 @@
 {
   "name": "shimi-vue-editor",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A rich text editor base on Vue",
   "main": "lib/shimi.umd.js",
   "keyword": "vue rich editor",
@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "vue": "^2.6.10",
-    "shimi-editor": "^0.1.7"
+    "shimi-editor": "^0.1.8"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.0",
