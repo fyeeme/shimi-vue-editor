@@ -1,6 +1,6 @@
 {
   "name": "shimi-vue-editor",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A rich text editor base on Vue",
   "main": "lib/shimi.umd.js",
   "keyword": "vue rich editor",
