@@ -1,6 +1,6 @@
 {
   "name": "shimi-vue-editor",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "A rich text editor base on Vue",
   "main": "lib/shimi.umd.js",
   "keyword": "vue rich editor",
@@ -13,18 +13,18 @@
   },
   "dependencies": {
     "vue": "^2.6.10",
-    "shimi-editor": "^0.1.8"
+    "shimi-editor": "^0.1.9"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.9.0",
-    "@vue/cli-plugin-eslint": "^3.9.0",
-    "@vue/cli-service": "^3.9.0",
+    "@vue/cli-plugin-babel": "^3.11.0",
+    "@vue/cli-plugin-eslint": "^3.11.0",
+    "@vue/cli-service": "^3.11.0",
     "@vue/eslint-config-standard": "^4.0.0",
     "babel-eslint": "^10.0.1",
     "core-js": "^2.6.5",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "less": "^3.0.4",
+    "less": "^3.10.2",
     "less-loader": "^4.1.0",
     "vue-template-compiler": "^2.6.10"
   },
